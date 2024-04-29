@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sefiqofficial1011
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Front-end
+- 👀 I’m interested in UX/UI Design
+- 🌱 I’m currently learning No Code Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sefiqurohman-alfarizi-0216711a5/
 
